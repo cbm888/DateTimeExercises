@@ -1,0 +1,11 @@
+C:\Users\cbmar\source\repos\datetime\datetime\bin\Debug\netcoreapp2.1\datetime.deps.json
+C:\Users\cbmar\source\repos\datetime\datetime\bin\Debug\netcoreapp2.1\datetime.runtimeconfig.json
+C:\Users\cbmar\source\repos\datetime\datetime\bin\Debug\netcoreapp2.1\datetime.runtimeconfig.dev.json
+C:\Users\cbmar\source\repos\datetime\datetime\bin\Debug\netcoreapp2.1\datetime.dll
+C:\Users\cbmar\source\repos\datetime\datetime\bin\Debug\netcoreapp2.1\datetime.pdb
+C:\Users\cbmar\source\repos\datetime\datetime\obj\Debug\netcoreapp2.1\datetime.csprojAssemblyReference.cache
+C:\Users\cbmar\source\repos\datetime\datetime\obj\Debug\netcoreapp2.1\datetime.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\datetime\datetime\obj\Debug\netcoreapp2.1\datetime.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\datetime\datetime\obj\Debug\netcoreapp2.1\datetime.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\datetime\datetime\obj\Debug\netcoreapp2.1\datetime.dll
+C:\Users\cbmar\source\repos\datetime\datetime\obj\Debug\netcoreapp2.1\datetime.pdb
